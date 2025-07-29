@@ -1,4 +1,7 @@
-# Apache Turbo: The Nexus of Innovation
+<div align="center">
+  <img src="apache-turbo-nexus.png" alt="Apache Turbo Nexus">
+  <h1>Apache Turbo: The Nexus of Innovation</h1>
+</div>
 
 Imagine a place where the brightest minds from across the Apache Software Foundation converge – a dynamic,
 high-energy environment where the most seasoned committers from projects like Hadoop, Kafka, Spark, Cassandra,
